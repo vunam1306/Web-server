@@ -1,0 +1,14 @@
+D:\VISUALCODE\Project\WebServer1\WebServer1\bin\Debug\net6.0\WebServer1.exe
+D:\VISUALCODE\Project\WebServer1\WebServer1\bin\Debug\net6.0\WebServer1.deps.json
+D:\VISUALCODE\Project\WebServer1\WebServer1\bin\Debug\net6.0\WebServer1.runtimeconfig.json
+D:\VISUALCODE\Project\WebServer1\WebServer1\bin\Debug\net6.0\WebServer1.dll
+D:\VISUALCODE\Project\WebServer1\WebServer1\bin\Debug\net6.0\WebServer1.pdb
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.AssemblyInfoInputs.cache
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.AssemblyInfo.cs
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.csproj.CoreCompileInputs.cache
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.dll
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\refint\WebServer1.dll
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.pdb
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\WebServer1.genruntimeconfig.cache
+D:\VISUALCODE\Project\WebServer1\WebServer1\obj\Debug\net6.0\ref\WebServer1.dll
